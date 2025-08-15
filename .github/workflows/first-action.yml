@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - name: Print greeting
-        run: echo "Hellow Stefan"
+        run: echo "Hellow Stefan, jij bent een topper!!"
       - name: Print goodbye
-        run: echo "See ya later Stefan"
+        run: echo "See ya later Stefan, jij kan het!!"
